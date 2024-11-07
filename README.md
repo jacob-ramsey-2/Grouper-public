@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jacob-ramsey-2/Grouper">
-    <img src="static/Grouper+Logo-transparent.png" alt="Logo">
+    <img src="Grouper+Logo-transparent.png" alt="Logo">
   </a>
 
 
@@ -94,7 +94,7 @@
 
 Jacob Ramsey -  jacobramsey222@gmail.com
 
-Project Link: [https://github.com/jacob-ramsey-2/Grouper](https://github.com/jacob-ramsey-2/Grouper)
+Project Link: [https://github.com/jacob-ramsey-2/Grouper](https://github.com/jacob-ramsey-2/Grouper-public)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +117,7 @@ Project Link: [https://github.com/jacob-ramsey-2/Grouper](https://github.com/jac
 [license-url]: https://github.com/jacob-ramsey-2/Grouper/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jacob-ramsey-a6949b294/
-[product-screenshot]: static/Grouper-homepage.png
+[product-screenshot]: Grouper-homepage.png
 [Python]: https://img.shields.io/badge/-Python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow&colorB=0078D4
 [Python-url]: https://www.python.org/
 [React.js]: https://img.shields.io/badge/-Flask-black.svg?style=for-the-badge&logo=flask&logoColor=white&colorB=343434
