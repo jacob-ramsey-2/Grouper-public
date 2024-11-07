@@ -86,8 +86,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Source code -->
+## Source Code
+<p>The source code for Grouper has been copyrighted and is protected by the U.S. Copyright Office. For more information please <a href="#contact">contact</a>.</p>
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
